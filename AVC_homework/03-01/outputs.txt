@@ -1,0 +1,101 @@
+Container is store 100 shapes:
+character encryption: text = tikovykohc  encrypt text = titovytohc symbols = ['k', 't'], func result = 0.9838854073410922
+character encryption: text = ldlilstgey  encrypt text = ldlilstgny symbols = ['e', 'n'], func result = 0.9917733089579525
+character encryption: text = dqshmcxmpe  encrypt text = dwshmcxmpe symbols = ['q', 'w'], func result = 0.9944852941176471
+number encryption: text = jmqtkkjzjb  encrypt text = jmqtkkjzjb numbers = ['e', 9], func result = 1.0
+cyclic encryption:   text = lullxvvrzz encrypt text = lxvvrzzlul n = 3, func result = 1.0
+cyclic encryption:   text = edknoptegg encrypt text = ggedknopte n = 8, func result = 1.0
+cyclic encryption:   text = nlrvicbrtl encrypt text = rvicbrtlnl n = 2, func result = 1.0
+number encryption: text = trzjhmdwfg  encrypt text = trzjhmdwfg numbers = ['b', 1], func result = 1.0
+cyclic encryption:   text = ucocgkwjfx encrypt text = cocgkwjfxu n = 1, func result = 1.0
+cyclic encryption:   text = veekqwotfk encrypt text = fkveekqwot n = 8, func result = 1.0
+number encryption: text = vavkiudjvr  encrypt text = vavkiudjvr numbers = ['y', 3], func result = 1.0
+cyclic encryption:   text = lorztfepks encrypt text = kslorztfep n = 8, func result = 1.0
+number encryption: text = mmfbaavzoz  encrypt text = mmfbaavzoz numbers = ['d', 6], func result = 1.0
+cyclic encryption:   text = tvqwtvvtgt encrypt text = vtgttvqwtv n = 6, func result = 1.0
+cyclic encryption:   text = tzdoouldzz encrypt text = oouldzztzd n = 3, func result = 1.0
+cyclic encryption:   text = ebwxamcbpj encrypt text = amcbpjebwx n = 4, func result = 1.0
+character encryption: text = rbhtzjpazn  encrypt text = rbhtzjpazn symbols = ['l', 'q'], func result = 1.0
+cyclic encryption:   text = iajzhskmln encrypt text = lniajzhskm n = 8, func result = 1.0
+cyclic encryption:   text = wgwcubjmur encrypt text = gwcubjmurw n = 1, func result = 1.0
+character encryption: text = zbyzubjegx  encrypt text = zbyzubjegx symbols = ['l', 'x'], func result = 1.0
+character encryption: text = cepadfxioy  encrypt text = cepadfxioy symbols = ['j', 'f'], func result = 1.0
+character encryption: text = xcekojhqqh  encrypt text = xcekojhqqh symbols = ['s', 'z'], func result = 1.0
+character encryption: text = lvvyrmqint  encrypt text = lvvyrmqint symbols = ['x', 'g'], func result = 1.0
+number encryption: text = rqwcnjpthg  encrypt text = rqwcnjpthg numbers = ['f', 7], func result = 1.0
+cyclic encryption:   text = lnahckyumj encrypt text = ahckyumjln n = 2, func result = 1.0
+character encryption: text = vhjxcbboky  encrypt text = vhjxcbboky symbols = ['p', 'q'], func result = 1.0
+cyclic encryption:   text = sbiarsssid encrypt text = sidsbiarss n = 7, func result = 1.0
+cyclic encryption:   text = mskjouxqju encrypt text = uxqjumskjo n = 5, func result = 1.0
+number encryption: text = ujxmhwiauw  encrypt text = ujxmhwiauw numbers = ['o', 1], func result = 1.0
+character encryption: text = wgtvzihtqh  encrypt text = wgtvzihtqh symbols = ['u', 'y'], func result = 1.0
+number encryption: text = xqkvkxzdiq  encrypt text = xqkvkxzdiq numbers = ['w', 1], func result = 1.0
+character encryption: text = owwmshyltf  encrypt text = owwmshyltf symbols = ['z', 't'], func result = 1.0
+cyclic encryption:   text = prhnmqseyp encrypt text = nmqseypprh n = 3, func result = 1.0
+cyclic encryption:   text = qrhtiactik encrypt text = rhtiactikq n = 1, func result = 1.0
+number encryption: text = fazfomsubn  encrypt text = fazfomsubn numbers = ['d', 5], func result = 1.0
+number encryption: text = exilgnfdxl  encrypt text = exilgnfdxl numbers = ['z', 6], func result = 1.0
+cyclic encryption:   text = lsuhducflr encrypt text = hducflrlsu n = 3, func result = 1.0
+character encryption: text = usgnboejok  encrypt text = usgnboejok symbols = ['l', 'g'], func result = 1.0
+number encryption: text = zwiikyryau  encrypt text = zwiikyryau numbers = ['o', 3], func result = 1.0
+cyclic encryption:   text = iyoryxrnoc encrypt text = rnociyoryx n = 6, func result = 1.0
+number encryption: text = ppstlvlasq  encrypt text = ppstlvlasq numbers = ['g', 3], func result = 1.0
+cyclic encryption:   text = irbdnjdxbb encrypt text = bdnjdxbbir n = 2, func result = 1.0
+cyclic encryption:   text = unwrbiiznx encrypt text = rbiiznxunw n = 3, func result = 1.0
+number encryption: text = bpbpgkwksz  encrypt text = bpbpgkwksz numbers = ['m', 4], func result = 1.0
+cyclic encryption:   text = mjqkpbomgc encrypt text = gcmjqkpbom n = 8, func result = 1.0
+cyclic encryption:   text = dynfiecfez encrypt text = zdynfiecfe n = 9, func result = 1.0
+number encryption: text = rkixejvijb  encrypt text = rkixejvijb numbers = ['g', 5], func result = 1.0
+cyclic encryption:   text = dwzywvhcnx encrypt text = vhcnxdwzyw n = 5, func result = 1.0
+cyclic encryption:   text = frcfphswmm encrypt text = fphswmmfrc n = 3, func result = 1.0
+character encryption: text = kacebpfbto  encrypt text = kacebpfbto symbols = ['r', 'e'], func result = 1.0
+character encryption: text = yvxkrlnyva  encrypt text = yvxkrlnyva symbols = ['p', 'b'], func result = 1.0
+number encryption: text = unggwykpyx  encrypt text = unggwykpyx numbers = ['j', 4], func result = 1.0
+cyclic encryption:   text = hhymeokchl encrypt text = hymeokchlh n = 1, func result = 1.0
+cyclic encryption:   text = murwkhiolk encrypt text = khiolkmurw n = 4, func result = 1.0
+number encryption: text = nsorchxpex  encrypt text = nsorchxpex numbers = ['b', 8], func result = 1.0
+number encryption: text = knpxmwbbdi  encrypt text = knpxmwbbdi numbers = ['a', 9], func result = 1.0
+cyclic encryption:   text = kulxdyiucx encrypt text = iucxkulxdy n = 6, func result = 1.0
+cyclic encryption:   text = mmdiskhpgz encrypt text = mdiskhpgzm n = 1, func result = 1.0
+number encryption: text = hagjlkbduy  encrypt text = hagjlkbduy numbers = ['v', 1], func result = 1.0
+cyclic encryption:   text = imsstqgzqb encrypt text = stqgzqbims n = 3, func result = 1.0
+cyclic encryption:   text = unrxloofdf encrypt text = xloofdfunr n = 3, func result = 1.0
+character encryption: text = kdjfjnfrnv  encrypt text = kdjfjnfrnv symbols = ['y', 'b'], func result = 1.0
+character encryption: text = doynwycjkz  encrypt text = doynwycjkz symbols = ['s', 'm'], func result = 1.0
+number encryption: text = kbsyqcfrqy  encrypt text = kbsyqcfrqy numbers = ['u', 9], func result = 1.0
+cyclic encryption:   text = aidurkexaq encrypt text = kexaqaidur n = 5, func result = 1.0
+number encryption: text = opjtcohfgm  encrypt text = opjtcohfgm numbers = ['q', 2], func result = 1.0
+number encryption: text = lilzdgulbn  encrypt text = lilzdgulbn numbers = ['t', 7], func result = 1.0
+cyclic encryption:   text = ogjlfarufr encrypt text = farufrogjl n = 4, func result = 1.0
+character encryption: text = dzlousrksw  encrypt text = dzlousrksw symbols = ['i', 'x'], func result = 1.0
+number encryption: text = uwwgrtlcge  encrypt text = uwwgrtlcge numbers = ['s', 6], func result = 1.0
+cyclic encryption:   text = cuxeewqemv encrypt text = emvcuxeewq n = 7, func result = 1.0
+character encryption: text = fkkejvdkyv  encrypt text = fkkejvdkyv symbols = ['c', 'q'], func result = 1.0
+cyclic encryption:   text = lrmmwdbfpa encrypt text = rmmwdbfpal n = 1, func result = 1.0
+character encryption: text = wndxzwosgx  encrypt text = wndxzwosgx symbols = ['k', 'u'], func result = 1.0
+cyclic encryption:   text = gzbzodvkgt encrypt text = dvkgtgzbzo n = 5, func result = 1.0
+number encryption: text = aockfcscct  encrypt text = aockfcscct numbers = ['z', 4], func result = 1.0
+number encryption: text = qyilsqclgj  encrypt text = qyilsqclgj numbers = ['h', 5], func result = 1.0
+character encryption: text = veaygvdpve  encrypt text = veaygvdpve symbols = ['f', 'w'], func result = 1.0
+cyclic encryption:   text = apvxlbtqjb encrypt text = tqjbapvxlb n = 6, func result = 1.0
+character encryption: text = zqdiwhsmfy  encrypt text = zqdiwhsmfy symbols = ['b', 'q'], func result = 1.0
+character encryption: text = byoiuyaihe  encrypt text = byoiuyaihe symbols = ['f', 'i'], func result = 1.0
+number encryption: text = qinqhvdesa  encrypt text = qinqhvdesa numbers = ['u', 3], func result = 1.0
+cyclic encryption:   text = gnnzoljajv encrypt text = vgnnzoljaj n = 9, func result = 1.0
+cyclic encryption:   text = fcwbxbqblq encrypt text = xbqblqfcwb n = 4, func result = 1.0
+number encryption: text = fxvcrbxngn  encrypt text = fxvcrbxngn numbers = ['q', 7], func result = 1.0
+character encryption: text = rqlrvgapvp  encrypt text = rqlrvgamvm symbols = ['p', 'm'], func result = 1.0054397098821397
+character encryption: text = sjxkfmqalb  encrypt text = sjxkfmqabb symbols = ['l', 'b'], func result = 1.0093896713615023
+character encryption: text = lzhwikbqmz  encrypt text = lzhhikbqmz symbols = ['w', 'h'], func result = 1.0137362637362637
+character encryption: text = mfkxpaktho  encrypt text = mfkxpakeho symbols = ['t', 'e'], func result = 1.014018691588785
+character encryption: text = sslewbvfcx  encrypt text = ssleabvfcx symbols = ['w', 'a'], func result = 1.0205032618825722
+number encryption: text = ymdsyvlntg  encrypt text = ym2syvlntg numbers = ['d', 2], func result = 1.046685340802988
+number encryption: text = skzxumfges  encrypt text = skzxu8fges numbers = ['m', 8], func result = 1.050094517958412
+number encryption: text = myrowabgbk  encrypt text = 7yrowabgbk numbers = ['m', 7], func result = 1.0527859237536656
+number encryption: text = gpyeusppom  encrypt text = gpyeusppo3 numbers = ['m', 3], func result = 1.0549763033175354
+number encryption: text = tgujdlqzvy  encrypt text = tgujdlqz7y numbers = ['v', 7], func result = 1.05937794533459
+number encryption: text = vehjsslspb  encrypt text = 3ehjsslspb numbers = ['v', 3], func result = 1.0653658536585366
+number encryption: text = zlfyzrdpmj  encrypt text = zlf4zrdpmj numbers = ['y', 4], func result = 1.0659025787965617
+number encryption: text = lrzmxsdfpj  encrypt text = lr5mxsdfpj numbers = ['z', 5], func result = 1.0664100096246392
+number encryption: text = ckgngkcbkp  encrypt text = ck9n9kcbkp numbers = ['g', 9], func result = 1.0965372507869884
+number encryption: text = pmzepifczk  encrypt text = pm5epifc5k numbers = ['z', 5], func result = 1.1448058761804827

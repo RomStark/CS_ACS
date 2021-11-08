@@ -1,0 +1,5 @@
+Container is store 4 shapes:
+cyclic encryption:   text = iamadoctor encrypt text = adoctoriam n = 3, func result = 1.0
+character encryption: text = hello  encrypt text = hallo symbols = ['e', 'a'], func result = 1.0075757575757576
+character encryption: text = hfhfhfhf  encrypt text = ffffffff symbols = ['h', 'f'], func result = 1.0098039215686274
+number encryption: text = aabbab  encrypt text = 33bb3b numbers = ['a', '3'], func result = 1.308724832214765

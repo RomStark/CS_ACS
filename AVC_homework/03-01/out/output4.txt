@@ -1,0 +1,5 @@
+Container is store 4 shapes:
+cyclic encryption:   text = asdfghjklm encrypt text = asdfghjklm n = 10, func result = 1.0
+cyclic encryption:   text = aaasss encrypt text = sssaaa n = 3, func result = 1.0
+cyclic encryption:   text = qqqqqw encrypt text = wqqqqq n = 5, func result = 1.0
+cyclic encryption:   text = ab encrypt text = ba n = 1, func result = 1.0
